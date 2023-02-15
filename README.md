@@ -292,11 +292,14 @@ class User
 }
 
 ```
-# code smell //
+# code smell
+~ bad practise
 
-~ bad smell / bad practise
+In software development, "code smell" refers to any symptom in the source code of a program that suggests there may be a deeper problem or issue with the design or implementation. It is a term used to describe code that is hard to understand, modify, or maintain.
 
-* https://hackernoon.com/5-easy-wins-to-refactor-even-the-worst-legacy-code-7vuc3069
+Code smells are not necessarily bugs, but they are warning signs that the code may be difficult to work with or prone to defects. Examples of code smells include duplicated code, overly complex functions, long parameter lists, inconsistent naming conventions, and overly nested conditional statements.
+
+Identifying code smells is important because they can be early indicators of more serious problems that may require significant refactoring or redesign. By addressing code smells early in the development process, developers can improve the quality, maintainability, and performance of their code.
 
 
 # Resources
